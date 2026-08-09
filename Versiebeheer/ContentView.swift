@@ -22,7 +22,7 @@ struct ContentView: View {
         .padding()
     }
     
-    // new changes 
+    // new changes before pull 
 }
 
 #Preview {
