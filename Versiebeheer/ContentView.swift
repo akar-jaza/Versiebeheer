@@ -16,9 +16,13 @@ struct ContentView: View {
             Text("Hello, Akar!")
             
             Button("btn") {}
+            
+            // after stash
         }
         .padding()
     }
+    
+    // changes 
 }
 
 #Preview {
